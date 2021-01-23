@@ -42,6 +42,51 @@ Read the source codes and think the situations for the patterns.
 
 3. API design
 
+* Adapter
+
+* Bridge
+
+* Composite
+
+* Decorator
+
+* Facade
+
+* Flyweight
+
+* Proxy
+
 ## Behavior Patterns
 
 Unique and no central theme
+
+* Chain of Responsibility
+
+* Command 
+
+* Interpreter
+
+* Iterator
+
+* Mediator
+
+* Memento
+
+* Observer
+
+* State
+
+* Strategy
+
+* Template
+
+* Visitor
+
+
+## Architecture Patterns
+
+* Model View Controller
+
+* Model View Presenter
+
+* Model View ViewModel
